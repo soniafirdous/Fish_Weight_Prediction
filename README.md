@@ -1,6 +1,6 @@
 # Fish Weight Prediction 🐟
 
-Predicting the weight of Smelt fish using machine learning models based on physical measurements like length, width, and height. This project demonstrates how data science can be applied to aquaculture analytics and real-world predictions.
+Predicting the weight of fish using machine learning models based on physical measurements like length, width, and height. This project demonstrates how data science can be applied to aquaculture analytics and real-world predictions.
 
 ## 📂 Project Overview
 
